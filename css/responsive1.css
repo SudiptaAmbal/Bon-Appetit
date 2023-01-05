@@ -1,0 +1,90 @@
+#logo img{
+    height: 50px;
+}
+
+#navbar ul li{
+    font-size: 1rem;
+}
+
+#navbar .login .btn2{
+    font-size: 0.85rem;
+    margin: 0px 10px;
+}
+
+.h-primary{
+    font-size: 2rem;
+}
+
+#home{
+    height: 355px;
+    padding: 0px 125px;
+}
+
+#home::before{
+    height: 415px;
+}
+
+#home p{
+    font-size: 1.2rem;
+}
+
+.btn{
+    padding: 7px 17px;
+    font-size: 1.2rem;
+    margin-top: 20px;
+}
+
+#service .box{
+    margin: 15px;
+}
+
+#service .box img{
+    height: 80px;
+}
+
+.h-secondary{
+    font-size: 1.2rem;
+}
+
+#service .box p{
+    font-size: 0.9rem;
+}
+
+.clients{
+    height: 200px;
+}
+
+.clients::before{
+    height: 175px;
+}
+
+#client{
+    height: 120px;
+}
+
+#client img{
+    height: 55px;
+}
+
+.contact,
+.contact::before{
+    height: 415px;
+}
+
+#contact-box form{
+    width: 50%;
+}
+
+#contact-box label {
+    font-size: 1rem;
+}
+
+#contact-box input, 
+#contact-box textarea {
+    font-size: 0.8rem;
+}
+
+.contact .btn1{
+    font-size: 0.8rem;
+    padding: 6px 20px;
+}
